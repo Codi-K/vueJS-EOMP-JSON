@@ -1,0 +1,160 @@
+{
+    "mydetails": [
+        {
+            "id": 1,
+            "name": "Codi Levi Kader",
+            "dob": "10/01/2001",
+            "loacation": "Cape Town, Western Cape, South Africa",
+            "number": "079 262 4314",
+            "email": "codikader7@gmail.com",
+            "language": "English & Afrikaans",
+            "relocate": "I am willing to relocate"
+
+        }
+    ],
+    "educations": [
+        {
+            "id": 1,
+            "school":"Voortrekker High School",
+            "pass": "Matric",
+            "year": 2018
+        },
+        {
+            "id": 2,
+            "school": "Life Choices",
+            "year": "To Date"
+        }
+    ],
+    "skills":[
+        {
+            "id": 1,
+            "name":"HTML",
+            "imageUrl":"https://i.postimg.cc/rm1Sw2hb/html-5.png",
+            "level":"Expert" 
+        },
+        {
+            "id": 2,
+            "name":"CSS",
+            "imageUrl":"https://i.postimg.cc/3N32yfVw/css-3.png",
+            "level":"Intermediate" 
+        },
+        {
+            "id": 3,
+            "name":"Bootstrap",
+            "imageUrl":"https://i.postimg.cc/h40LFgQQ/bootstrap.png",
+            "level":"Intermediate" 
+        },
+        {
+            "id": 4,
+            "name":"JavaScript",
+            "imageUrl":"https://i.postimg.cc/cCTwfMGB/js.png",
+            "level":"Intermediate" 
+        },
+        {
+            "id": 5,
+            "name":"VueJs",
+            "imageUrl":"https://i.postimg.cc/gJHhhJf2/Vue.png",
+            "level":"Intermediate" 
+        },
+        {
+            "id": 6,
+            "name":"Microsoft Office",
+            "imageUrl":"https://i.postimg.cc/XJWbh7XF/office.png",
+            "level":"Intermediate" 
+        }
+    ],
+    "mycv":[
+        {
+            "id": 1,
+            "cvUrl": "https://drive.google.com/file/d/1DOJrn-KVX6KPAC5p6cbcEebeBTUJ4wKU/view?usp=drive_link"
+        }
+    ],
+    "projects":[
+        {
+            "id": 1,
+            "name":"Desktop E-Commerce",
+            "despcription":"This was my toughest challenge. I was able to pull it off and deliver a fully functional eCommerce website. Half of the project is imported from JavaScript into HTML, and it utilizes 2 local storages. To create this application, I used HTML, CSS, Bootstrap, and JavaScript.",
+            "imageUrl":"https://i.postimg.cc/HWF5Rqdz/E-commerce.png",
+            "github":"https://github.com/Codi-K/jsE-commerce.git",
+            "netlify":"https://euphonious-sundae-ed6123.netlify.app/"
+        },
+        {
+            "id": 2,
+            "name":"To Do List",
+            "despcription":"To create this fully functional To-Do List, I had to learn the CRUD system, and I was able to create an application I am satisfied with. I used HTML, CSS, and JavaScript to create it.",
+            "imageUrl":"https://i.postimg.cc/MGzpgDnd/To-Do-List.png",
+            "github":"https://github.com/Codi-K/to-do-list2.0.git",
+            "netlify":"https://glowing-douhua-7c61b0.netlify.app/"
+        },
+        {   
+            "id": 3,
+            "name":"Temperature Convertor",
+            "despcription":"This is a fully functional Temperature Converter. It can convert Celsius to Fahrenheit and vice versa. It was made using HTML, CSS, and JavaScript.",
+            "imageUrl":"https://i.postimg.cc/FRRsHHgS/temperature-convertor.png",
+            "github":"https://github.com/Codi-K/tempretureConverter.git",
+            "netlify":"https://capable-cactus-f66ca0.netlify.app/"
+        },
+        {
+            "id": 4,
+            "name":"BMI Calculator",
+            "despcription":"This is a fully functional BMI calculator. I used HTML, CSS, and JavaScript to create it. This project is where I learned how to import JavaScript into HTML.",
+            "imageUrl":"https://i.postimg.cc/nLThxD7Z/BMI-calculator.png",
+            "github":"https://github.com/Codi-K/BMIcalculator.git",
+            "netlify":"https://precious-nasturtium-1b8c7e.netlify.app/"
+        },
+        {
+            "id": 5,
+            "name":"Calculator",
+            "despcription":"This calculator is fully functional. It was made using HTML, CSS & Javascript.",
+            "imageUrl":"https://i.postimg.cc/sXNfQCwN/calculator.png",
+            "github":"https://github.com/Codi-K/BMIcalculator.git",
+            "netlify":"https://brilliant-daffodil-fa8904.netlify.app/"
+        },
+        {
+            "id": 6,
+            "name":"Web Porfolio",
+            "despcription":"My first full website. I used HTML, CSS & Bootstrap to create this Portfolio.",
+            "imageUrl":"https://i.postimg.cc/3rkmL85W/web-porfolio.png",
+            "github":"https://github.com/Codi-K/CodiPortfolio.git",
+            "netlify":"https://rainbow-snickerdoodle-537705.netlify.app/ "
+        }
+    ],
+    "testimonils":[
+        {
+            "id": 1,
+            "name":"Keeno Fourie",
+            "imageUrl":"https://i.postimg.cc/T3DGr92f/C12-Keeno-Fourie-1.jpg",
+            "testimonial":"Codi is the most friendly and kind-hearted person I know. He is committed to what he does, and his determination is unmatched when it comes to solving a problem. He is hard-working and does his best in everything, no matter how hard the challenge or how difficult the assignment. He is the person to have on your team, and there is a sense of pride in everything he does. His understanding of web development makes him an advantage, and I see him doing great things going forward."
+        },
+        {
+            "id": 2,
+            "name":"Joel Mukanya",
+            "imageUrl":"",
+            "testimonial":"Codi is very well-behaved, social, and dedicated; he enjoys working with his peers and works well on his project. He learned HTML, CSS, Bootstrap, and VueJS. He will learn more in the coming months."
+        },
+        {
+            "id": 3,
+            "name":"Uzukhanye Dywili",
+            "imageUrl":"https://i.postimg.cc/3Rms9YtM/C11-Uzukhanye-Dywili-4.jpg",
+            "testimonial":"Working with Codi was an incredible experience. Their professionalism, attention to detail, and communication skills made the entire process seamless. They consistently exceeded my expectations and delivered exceptional results. I would highly recommend Codi to anyone looking for a talented and dedicated professional."
+        },
+        {
+            "id": 4,
+            "name":"Taflynne Petersen",
+            "imageUrl":"https://i.postimg.cc/YC3y37TV/IMG-20230507-WA0010.jpg",
+            "testimonial":"Codi is a smart person who enjoys coding and knows what he is doing. He is able to figure out errors quickly and is determined in his career in web development, as I can personally attest. He understands his work and content well, as he can explain it in a very simplistic way. Codi is very helpful and guides his peers to the right solution when they need help with their code. He is kind and truly enjoys coding. He would be an asset to any field and career he chooses to work in."
+        },
+        {
+            "id": 5,
+            "name":"Timothy Barry",
+            "imageUrl":"https://i.postimg.cc/8kZ5qfMP/C12-Timothy-Barry-1.jpg",
+            "testimonial":"Codi, what a guy. There is so much to say about him. He is a very kind person and also very genuine. He has excellent skills in HTML and CSS, and he excels at everything he does. He takes his work seriously and doesn't like to mess around when it comes to his tasks. He works extremely well in a team and also independently. He is overall just a great person to be around"
+        },
+        {
+            "id": 6,
+            "name":"Cheslyn Herman",
+            "imageUrl":"https://i.postimg.cc/25NYTZ3v/C12-Cheslyn-Herman-1.jpg",
+            "testimonial":"My time working alongside Codi has been impressive. He is an incredibly hardworking individual who ensures that his objectives are always met, no matter how difficult the task. He is someone who always ensures that you feel like a part of the team. However, if needed, he also works really well alone. He is definitely a great addition to any team or company."
+        }
+    ]
+}
