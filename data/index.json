@@ -28,13 +28,13 @@
         {
             "id": 1,
             "name":"HTML",
-            "imageUrl":"https://i.postimg.cc/rm1Sw2hb/html-5.png",
+            "imageUrl":"https://i.postimg.cc/GtHd9D56/html.png",
             "level":"Expert" 
         },
         {
             "id": 2,
             "name":"CSS",
-            "imageUrl":"https://i.postimg.cc/3N32yfVw/css-3.png",
+            "imageUrl":"https://i.postimg.cc/63HB9cYd/css-3.png",
             "level":"Intermediate" 
         },
         {
