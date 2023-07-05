@@ -72,7 +72,7 @@
         {
             "id": 1,
             "name":"Desktop E-Commerce",
-            "despcription":"This is a fully functional eCommerce. Half of the project is imported from JavaScript into HTML, and it utilizes 2 local storages. I used HTML, CSS, Bootstrap, and JavaScript.",
+            "despcription":"This is a fully functional eCommerce. Half of the project is imported from JavaScript into HTML. I used HTML, CSS, Bootstrap, and JavaScript.",
             "imageUrl":"https://i.postimg.cc/HWF5Rqdz/E-commerce.png",
             "github":"https://github.com/Codi-K/jsE-commerce.git",
             "netlify":"https://euphonious-sundae-ed6123.netlify.app/"
@@ -80,7 +80,7 @@
         {
             "id": 2,
             "name":"To Do List",
-            "despcription":"To create this fully functional To-Do List, I had to learn the CRUD system, and I was able to create an application I am satisfied with. I used HTML, CSS, and JavaScript to create it.",
+            "despcription":"To create this fully functional To-Do List, I had to learn the CRUD system, and I am satisfied with it. I used HTML, CSS, and JavaScript to create it.",
             "imageUrl":"https://i.postimg.cc/MGzpgDnd/To-Do-List.png",
             "github":"https://github.com/Codi-K/to-do-list2.0.git",
             "netlify":"https://glowing-douhua-7c61b0.netlify.app/"
@@ -104,7 +104,7 @@
         {
             "id": 5,
             "name":"Calculator",
-            "despcription":"This calculator is fully functional. It was made using HTML, CSS & Javascript.",
+            "despcription":"This calculator is fully functional. It uses onclick, functions and queryselectorAll for the first time. It was made using HTML, CSS & Javascript.",
             "imageUrl":"https://i.postimg.cc/sXNfQCwN/calculator.png",
             "github":"https://github.com/Codi-K/BMIcalculator.git",
             "netlify":"https://brilliant-daffodil-fa8904.netlify.app/"
@@ -112,7 +112,7 @@
         {
             "id": 6,
             "name":"Web Porfolio",
-            "despcription":"My first full website. I used HTML, CSS & Bootstrap to create this Portfolio.",
+            "despcription":"My first full website. I added animations on my buttons and used a modal from bootstrap. I used HTML, CSS & Bootstrap to create this Portfolio.",
             "imageUrl":"https://i.postimg.cc/3rkmL85W/web-porfolio.png",
             "github":"https://github.com/Codi-K/CodiPortfolio.git",
             "netlify":"https://rainbow-snickerdoodle-537705.netlify.app/ "
