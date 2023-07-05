@@ -72,7 +72,7 @@
         {
             "id": 1,
             "name":"Desktop E-Commerce",
-            "despcription":"This was my toughest challenge. I was able to pull it off and deliver a fully functional eCommerce website. Half of the project is imported from JavaScript into HTML, and it utilizes 2 local storages. To create this application, I used HTML, CSS, Bootstrap, and JavaScript.",
+            "despcription":"This is a fully functional eCommerce. Half of the project is imported from JavaScript into HTML, and it utilizes 2 local storages. I used HTML, CSS, Bootstrap, and JavaScript.",
             "imageUrl":"https://i.postimg.cc/HWF5Rqdz/E-commerce.png",
             "github":"https://github.com/Codi-K/jsE-commerce.git",
             "netlify":"https://euphonious-sundae-ed6123.netlify.app/"
