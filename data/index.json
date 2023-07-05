@@ -4,12 +4,10 @@
             "id": 1,
             "name": "Codi Levi Kader",
             "dob": "10/01/2001",
-            "loacation": "Cape Town, Western Cape, South Africa",
+            "loacation": "Cape Town",
             "number": "079 262 4314",
             "email": "codikader7@gmail.com",
-            "language": "English & Afrikaans",
-            "relocate": "I am willing to relocate"
-
+            "language": "English & Afrikaans"
         }
     ],
     "educations": [
@@ -129,7 +127,7 @@
         {
             "id": 2,
             "name":"Joel Mukanya",
-            "imageUrl":"",
+            "imageUrl":"https://i.postimg.cc/GhdZZR01/Joel-Profile.jpg",
             "testimonial":"Codi is very well-behaved, social, and dedicated; he enjoys working with his peers and works well on his project. He learned HTML, CSS, Bootstrap, and VueJS. He will learn more in the coming months."
         },
         {
