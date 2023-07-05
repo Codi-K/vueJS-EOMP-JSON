@@ -88,7 +88,7 @@
         {   
             "id": 3,
             "name":"Temperature Convertor",
-            "despcription":"This is a fully functional Temperature Converter. It can convert Celsius to Fahrenheit and Fahrenheit to  Celsius. It was made using HTML, CSS, and JavaScript.",
+            "despcription":"This is a fully functional Temperature Converter. It can convert Celsius to Fahrenheit and vice versa. It was made using HTML, CSS, and JavaScript.",
             "imageUrl":"https://i.postimg.cc/FRRsHHgS/temperature-convertor.png",
             "github":"https://github.com/Codi-K/tempretureConverter.git",
             "netlify":"https://capable-cactus-f66ca0.netlify.app/"
