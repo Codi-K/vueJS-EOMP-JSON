@@ -28,37 +28,37 @@
         {
             "id": 1,
             "name":"HTML",
-            "imageUrl":"https://i.postimg.cc/GtHd9D56/html.png",
+            "imageUrl":"https://i.ibb.co/SQcdKGs/file-type-html-icon-130541.png",
             "level":"Expert" 
         },
         {
             "id": 2,
             "name":"CSS",
-            "imageUrl":"https://i.postimg.cc/63HB9cYd/css-3.png",
+            "imageUrl":"https://i.ibb.co/C5JY2fN/file-type-css-icon-130661.png",
             "level":"Intermediate" 
         },
         {
             "id": 3,
             "name":"Bootstrap",
-            "imageUrl":"https://i.postimg.cc/h40LFgQQ/bootstrap.png",
+            "imageUrl":"https://i.ibb.co/pPHCmVR/bootstrap-plain-logo-icon-146619.png",
             "level":"Intermediate" 
         },
         {
             "id": 4,
             "name":"JavaScript",
-            "imageUrl":"https://i.postimg.cc/cCTwfMGB/js.png",
+            "imageUrl":"https://i.ibb.co/ZSMgczb/javascript-original-logo-icon-146455.png",
             "level":"Intermediate" 
         },
         {
             "id": 5,
             "name":"VueJs",
-            "imageUrl":"https://i.postimg.cc/Hkcc9KDS/4375161-logo-vuejs-icon.png",
+            "imageUrl":"https://i.ibb.co/L5YhBjF/vuejs-original-logo-icon-146304.png",
             "level":"Intermediate" 
         },
         {
             "id": 6,
             "name":"Microsoft Office",
-            "imageUrl":"https://i.postimg.cc/XJWbh7XF/office.png",
+            "imageUrl":"https://i.ibb.co/566Y6J7/office.png",
             "level":"Intermediate" 
         }
     ],
@@ -73,7 +73,7 @@
             "id": 1,
             "name":"Desktop E-Commerce",
             "despcription":"This is a fully functional eCommerce. Half of the project is imported from JavaScript into HTML. I used HTML, CSS, Bootstrap, and JavaScript.",
-            "imageUrl":"https://i.postimg.cc/HWF5Rqdz/E-commerce.png",
+            "imageUrl":"https://i.ibb.co/rK9SLgD/Screenshot-2024-01-26-130806.png",
             "github":"https://github.com/Codi-K/jsE-commerce.git",
             "netlify":"https://euphonious-sundae-ed6123.netlify.app/"
         },
@@ -81,7 +81,7 @@
             "id": 2,
             "name":"To Do List",
             "despcription":"To create this fully functional To-Do List, I had to learn the CRUD system, and I am satisfied with it. I used HTML, CSS, and JavaScript to create it.",
-            "imageUrl":"https://i.postimg.cc/MGzpgDnd/To-Do-List.png",
+            "imageUrl":"https://i.ibb.co/sR8Q6Vs/Screenshot-2024-01-26-130923.png",
             "github":"https://github.com/Codi-K/to-do-list2.0.git",
             "netlify":"https://glowing-douhua-7c61b0.netlify.app/"
         },
@@ -89,7 +89,7 @@
             "id": 3,
             "name":"Temperature Convertor",
             "despcription":"This is a fully functional Temperature Converter. It can convert Celsius to Fahrenheit and vice versa. It was made using HTML, CSS, and JavaScript.",
-            "imageUrl":"https://i.postimg.cc/FRRsHHgS/temperature-convertor.png",
+            "imageUrl":"https://i.ibb.co/1s8WGLT/Screenshot-2024-01-26-131017.png",
             "github":"https://github.com/Codi-K/tempretureConverter.git",
             "netlify":"https://capable-cactus-f66ca0.netlify.app/"
         },
@@ -97,7 +97,7 @@
             "id": 4,
             "name":"BMI Calculator",
             "despcription":"This is a fully functional BMI calculator. I used HTML, CSS, and JavaScript to create it. This project is where I learned how to import JavaScript into HTML.",
-            "imageUrl":"https://i.postimg.cc/nLThxD7Z/BMI-calculator.png",
+            "imageUrl":"https://i.ibb.co/vqqV6Zg/Screenshot-2024-01-29-155852.png",
             "github":"https://github.com/Codi-K/BMIcalculator.git",
             "netlify":"https://precious-nasturtium-1b8c7e.netlify.app/"
         },
@@ -105,54 +105,54 @@
             "id": 5,
             "name":"Calculator",
             "despcription":"This calculator is fully functional. It uses onclick, functions and queryselectorAll for the first time. It was made using HTML, CSS & Javascript.",
-            "imageUrl":"https://i.postimg.cc/sXNfQCwN/calculator.png",
+            "imageUrl":"https://i.ibb.co/9VwC3RP/Screenshot-2024-01-29-155703.png",
             "github":"https://github.com/Codi-K/BMIcalculator.git",
             "netlify":"https://brilliant-daffodil-fa8904.netlify.app/"
         },
         {
             "id": 6,
-            "name":"Web Porfolio",
-            "despcription":"My first full website. I added animations on my buttons and used a modal from bootstrap. I used HTML, CSS & Bootstrap to create this Portfolio.",
-            "imageUrl":"https://i.postimg.cc/3rkmL85W/web-porfolio.png",
-            "github":"https://github.com/Codi-K/CodiPortfolio.git",
-            "netlify":"https://rainbow-snickerdoodle-537705.netlify.app/ "
+            "name":"StellarWrist",
+            "despcription":"This is a fully functional eCommerce. It was a group project. One does frontend and the other does backend. We used Vuejs, Nodejs & MySQL.",
+            "imageUrl":"https://i.ibb.co/s67B2hX/Screenshot-2024-01-29-130216.png",
+            "github":"https://github.com/Codi-K/node.js_EOMP.git",
+            "netlify":"https://nodejs-eomp-b5ebc.web.app "
         }
     ],
     "testimonils":[
         {
             "id": 1,
             "name":"Keeno Fourie",
-            "imageUrl":"https://i.postimg.cc/T3DGr92f/C12-Keeno-Fourie-1.jpg",
+            "imageUrl":"https://i.ibb.co/L9Yj6Cb/C12-Keeno-Fourie-1.jpg",
             "testimonial":"Codi is the most friendly and kind-hearted person I know. He is committed to what he does, and his determination is unmatched when it comes to solving a problem."
         },
         {
             "id": 2,
             "name":"Joel Mukanya",
-            "imageUrl":"https://i.postimg.cc/0yNhyC2W/IMG-20201209-WA0066.jpg",
+            "imageUrl":"https://i.ibb.co/xjy7Jbd/Joel-Profile-1.jpg",
             "testimonial":"Codi is very well-behaved, social, and dedicated; he enjoys working with his peers and works well on his project. He learned HTML, CSS, Bootstrap, and VueJS."
         },
         {
             "id": 3,
             "name":"Uzukhanye Dywili",
-            "imageUrl":"https://i.postimg.cc/3Rms9YtM/C11-Uzukhanye-Dywili-4.jpg",
+            "imageUrl":"https://i.ibb.co/KwvvShJ/C11-Uzukhanye-Dywili-4.jpg",
             "testimonial":"Working with Codi was an incredible experience. Their professionalism, attention to detail, and communication skills made the entire process seamless."
         },
         {
             "id": 4,
             "name":"Taflynne Petersen",
-            "imageUrl":"https://i.postimg.cc/YC3y37TV/IMG-20230507-WA0010.jpg",
+            "imageUrl":"https://i.ibb.co/rfPPkZZ/Snapchat-565097172.jpg",
             "testimonial":"Codi is a smart person who enjoys coding and knows what he is doing. He is able to figure out errors quickly and is determined in his career in web development."
         },
         {
             "id": 5,
             "name":"Timothy Barry",
-            "imageUrl":"https://i.postimg.cc/8kZ5qfMP/C12-Timothy-Barry-1.jpg",
+            "imageUrl":"https://i.ibb.co/nRKb7J9/C12-Timothy-Barry-1.jpg",
             "testimonial":"Codi, what a guy. There is so much to say about him. He is a very kind person and also very genuine. He has excellent skills in HTML and CSS, and he excels at everything he does."
         },
         {
             "id": 6,
             "name":"Cheslyn Herman",
-            "imageUrl":"https://i.postimg.cc/25NYTZ3v/C12-Cheslyn-Herman-1.jpg",
+            "imageUrl":"https://i.ibb.co/N9B1RRP/C12-Cheslyn-Herman-1.jpg",
             "testimonial":"My time working alongside Codi has been impressive. He is an incredibly hardworking individual who ensures that his objectives are always met, no matter how difficult the task."
         }
     ]
